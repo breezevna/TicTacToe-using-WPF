@@ -7,7 +7,7 @@ By creating a Tic-Tac-Toe game in WPF, I've showcased my ability to design and b
 **2. Event Handling**   
 Tic-Tac-Toe involves user interactions with the game board, including mouse clicks to make moves. I've implemented event handlers to respond to these user actions, demonstrating my understanding of event-driven programming.  
 **3. Game logic**  
-This project includes the underlying game logic for Tic-Tac-Toe. It showcases my ability to design and implement game rules, check for win conditions, and handle game state transitions.
+This project includes the underlying game logic for Tic-Tac-Toe. It showcases my ability to design and implement game rules, check for win conditions, and handle game state transitions.  
 **4. Object-Oriented Programming (OOP)**  
 The codebase is structured using object-oriented principles, with classes for the game board, players, and game state. This demonstrates my knowledge of OOP concepts and design patterns.  
 
