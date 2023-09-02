@@ -1,0 +1,16 @@
+E:\VS\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+E:\VS\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+E:\VS\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+E:\VS\tictactoe\tictactoe\obj\Debug\MainWindow.g.cs
+E:\VS\tictactoe\tictactoe\obj\Debug\App.g.cs
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.cache
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.lref
+E:\VS\tictactoe\tictactoe\obj\Debug\MainWindow.baml
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.g.resources
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+E:\VS\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
