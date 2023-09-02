@@ -3,7 +3,9 @@
 This project is a simple implementation of the classic game of Tic-Tac-Toe using the Windows Presentation Foundation (WPF) framework in C#. The primary goal of this project is to demonstrate proficiency in several important areas of software development:  
 
 **1. User Interface (UI) Design**  
+
 By creating a Tic-Tac-Toe game in WPF, I've showcased my ability to design and build a visually appealing and interactive user interface. The game board, player input, and game status display all reflect my skills in creating intuitive and engaging UI components.  
+
 **2. Event Handling**   
 Tic-Tac-Toe involves user interactions with the game board, including mouse clicks to make moves. I've implemented event handlers to respond to these user actions, demonstrating my understanding of event-driven programming.  
 **3. Game logic**  
